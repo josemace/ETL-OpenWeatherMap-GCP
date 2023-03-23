@@ -39,7 +39,7 @@ After this steps your are ready to execute the script.
 
 Once everything is correctly setup, to execute the script you need to run:
 
-`python -m etl_owm_gcp.py`
+`python -m etl_owm_gcp`
 
 ### Config Schema <a name = "config_schema"></a>
 
